@@ -60,15 +60,13 @@ body {
     font-family: inter, sans-serif;
     font-weight: 700;
     text-align: left;
-    padding-right: 6px;
     text-align: left;
 }
 
 .headerClock {
     font-family: inter, sans-serif;
     font-weight: 400;
-    padding-right: px;
-    font-size: 16px;
+    font-size: 100%;
     float: right;
 }
 
@@ -77,8 +75,8 @@ body {
     text-align: center;
     background-color: #16161e;
     color: #9aa5ec;
-    border-top-right-radius: 8px;
-    border-top-left-radius: 8px;
+    border-radius: 8px;
+
     font-size: 20px;
     font-family: inter, sans-serif;
     font-weight: 900;
@@ -92,7 +90,7 @@ body {
     color: #9aa5ce;
     border-bottom-right-radius: 8px;
     border-bottom-left-radius: 8px;
-    font-size: 15px;
+    font-size: 80%;
     font-family: inter, sans-serif;
     font-weight: 400;
 }
