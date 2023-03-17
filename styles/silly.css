@@ -67,7 +67,7 @@ body {
 .headerClock {
     font-family: inter, sans-serif;
     font-weight: 400;
-    padding-right: 6px;
+    padding-right: px;
     font-size: 16px;
     float: right;
 }
@@ -87,7 +87,8 @@ body {
 .dark {
     background-color: #1a1b26;
     text-align: left;
-    padding: 1%;
+    padding: 4%;
+    padding-top: 1%;
     color: #9aa5ce;
     border-bottom-right-radius: 8px;
     border-bottom-left-radius: 8px;
